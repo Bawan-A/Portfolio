@@ -10,11 +10,11 @@ Bachelor's in Software Engineering 2028
 MIA
 
 ### Projects
-Projects
-StickLab (Conceptual E-commerce Platform)
-Founder & Concept Developer
 
-[February, 2025] – Present
+**StickLab (Conceptual E-commerce Platform)
+Founder & Concept Developer**
+
+**[February, 2025] – Present**
 
 Conceptualized and designed StickLab, a conceptual e-commerce platform for custom-designed stickers.
 Led the creation of prototypes and initial UI/UX designs using Figma.
@@ -22,23 +22,23 @@ Conducted market research to identify target audiences, trends, and business str
 Explored key aspects of brand development, customer engagement, and digital marketing in preparation for future execution.
 
 ### Language 
-English – Fluent / Native
+-English – Fluent / Native
 
-German – Basic / Conversational
+-German – Basic / Conversational
 
 
 ### Skills
-Design & Editing:
+**Design & Editing:**
 
-Graphic Design (Figma, Affinity Photo, Photoshop - Basic) 
+-Graphic Design (Figma, Affinity Photo, Photoshop - Basic) 
 
-Photo Editing, 
-Video Editing
+-Photo Editing, 
+-Video Editing
 
-Multimedia:
+**Multimedia:**
 
-Photography
+-Photography
 
-Basic Videography
+-Basic Videography
 
 
