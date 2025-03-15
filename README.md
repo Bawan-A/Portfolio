@@ -10,16 +10,15 @@ Bachelor's in Software Engineering 2028
 MIA
 
 ### Projects
-StickLab
+Projects
+StickLab (Conceptual E-commerce Platform)
+Founder & Concept Developer
+[February, 2025] – Present
 
-Founder & Owner
-
-February , 2025 – Present
-
-Designed, developed, and managed StickLab, an online platform for custom stickers.
-Handled end-to-end business operations, including product design, e-commerce management, and customer relations.
-Implemented web development and SEO strategies to enhance online visibility and drive sales.
-Utilized graphic design tools to create high-quality sticker designs tailored to customer preferences.
+Conceptualized and designed StickLab, a conceptual e-commerce platform for custom-designed stickers.
+Led the creation of prototypes and initial UI/UX designs using Figma.
+Conducted market research to identify target audiences, trends, and business strategies for a potential future launch.
+Explored key aspects of brand development, customer engagement, and digital marketing in preparation for future execution.
 
 ### Language 
 English – Fluent / Native
