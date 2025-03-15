@@ -2,6 +2,7 @@
 
 ### Education
 📍 Qaiwan International University – Software Engineering
+
 Qaiwan International University (QIU)
 Bachelor's in Software Engineering 2028
 
