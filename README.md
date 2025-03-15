@@ -30,9 +30,8 @@ German – Basic / Conversational
 ### Skills
 Design & Editing:
 
-Graphic Design (Figma, Affinity Photo, Photoshop - Basic)
-
-Photo Editing
+Graphic Design (Figma, Affinity Photo, Photoshop - Basic) 
+Photo Editing, 
 Video Editing
 
 Multimedia:
