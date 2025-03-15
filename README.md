@@ -31,14 +31,12 @@ Explored key aspects of brand development, customer engagement, and digital mark
 **Design & Editing:**
 
 - Graphic Design (Figma, Affinity Photo, Photoshop - Basic) 
-
 - Photo Editing, 
 - Video Editing
 
 **Multimedia:**
 
 - Photography
-
 - Basic Videography
 
 
