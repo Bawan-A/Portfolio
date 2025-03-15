@@ -23,7 +23,6 @@ Explored key aspects of brand development, customer engagement, and digital mark
 
 ### Language 
 - English – Fluent / Native
-
 - German – Basic / Conversational
 
 
