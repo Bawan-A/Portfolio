@@ -31,12 +31,14 @@ German – Basic / Conversational
 Design & Editing:
 
 Graphic Design (Figma, Affinity Photo, Photoshop - Basic) 
+
 Photo Editing, 
 Video Editing
 
 Multimedia:
 
 Photography
+
 Basic Videography
 
 
