@@ -1,7 +1,7 @@
 # Programmer
 
 ### Education
-Sodtware Engineering, Bachelor 
+Software Engineering, Bachelor 
 
 ### Work Experience 
 Currently none.
