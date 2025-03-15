@@ -18,10 +18,12 @@ Founder & Concept Developer
 Conceptualized and designed StickLab, a conceptual e-commerce platform for custom-designed stickers.
 Led the creation of prototypes and initial UI/UX designs using Figma.
 Conducted market research to identify target audiences, trends, and business strategies for a potential future launch.
+
 Explored key aspects of brand development, customer engagement, and digital marketing in preparation for future execution.
 
 ### Language 
 English – Fluent / Native
+
 German – Basic / Conversational
 
 
