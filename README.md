@@ -33,9 +33,40 @@ Explored key aspects of brand development, customer engagement, and digital mark
 - Photo Editing, 
 - Video Editing
 
+**Programming:**
+- C++
+- Python
+
+**Tools:**
+- Visual Studio Code
+- Github
+
+**Soft Skills:**
+- Teamwork
+- Communication
+
+
 **Multimedia:**
 
 - Photography
 - Basic Videography
+
+### Courses
+
+**TIS:**
+- Poster Assignment: Designed an informative poster on the importance of Cybersecurity in the Digital Age.
+- Web Design Concept – StickLab
+Designed a concept for an online sticker shop called StickLB, focusing on user-friendly layout, brand identity, and product showcase. Included homepage layout, navigation, and product preview ideas.
+- Skills Gained: UI/UX thinking, creative design, teamwork, presenting ideas.
+
+**Integrity & Anti-Corruption:**
+- Group Presentation – Integrity in Cybersecurity
+Researched and presented on the importance of ethical practices and transparency in the cybersecurity field. Included real-life case studies and prevention strategies.
+- skills Gained: Public speaking, research, ethics in technology.
+
+### External Links
+- Linkedin: https://www.linkedin.com/in/bawan-abdul-803b7a319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  
+
 
 
